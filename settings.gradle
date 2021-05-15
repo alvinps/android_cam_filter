@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "arframe"
+include ':java'
+include ':openCVLibrary3410'
